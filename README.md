@@ -17,6 +17,7 @@ Este projeto tem como objetivo desenvolver um protótipo de um sistema para cont
 ### Esquema Elétrico
 
 ![image](https://github.com/beatriz-ana/projeto-arduino/assets/76708862/d7dc55f5-cd60-437c-84a1-9582c323eeca)
+
 **Figura 1:** Diagrama elétrico do projeto em desenvolvimento no tinkercad.
 
 ### Maquete 
@@ -28,4 +29,5 @@ Este projeto tem como objetivo desenvolver um protótipo de um sistema para cont
 **Figura 3:** Protótipo em funcionamento com a maquete do portão.
 
 ![image](https://github.com/beatriz-ana/projeto-arduino/assets/76708862/ad450c65-5e26-4913-9f16-b3012fc9fd5e)
+
 **Figura 4:** Tela principal do sistema baseado no servidor web, com o botão para abrir ou fechar o portão.
